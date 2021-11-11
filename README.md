@@ -1,6 +1,9 @@
 <p align="center"><img src="https://github.com/MichaelCMooney/MichaelCMooney/blob/main/Welcome.png" alt="Michael Mooney's Github"/> 
 </p>
 
+<p align="center"><img src="https://github.com/MichaelCMooney/MichaelCMooney/blob/main/Welcome.png" alt="Michael Mooney's Github"/> 
+</p>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
