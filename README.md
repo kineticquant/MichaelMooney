@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Michael(111| Mooney))" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://dev.page/moondog)"/>](https://dev.page/moondog)
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Michael(111|C Mooney)|)" title="👋 Hi there! I'm (Michael(111|C Mooney)|https://dev.page/moondog"/>](https://dev.page/moondog/)
-
 <!--
 
 - 🔭 I’m currently working on ...
