@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/MichaelCMooney/MichaelCMooney/blob/main/Welcome.png" alt="Michael Mooney's Github"/>
+<p align="center"><img src="https://github.com/MichaelCMooney/MichaelCMooney/blob/main/Welcome.png" alt="Michael Mooney's Github"/> 
 </p>
 
 ```python
