@@ -2,12 +2,13 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class SoftwareEngineer:
+class Software Developer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = "Mike Mooney (Moondog)"
+        self.role = "Software Dev"
+        self.specialties = ["SQL", "Powershell", "Python", "Java", "C#", "VB.NET", "WebDev", "API's (REST & SOAP)", "EDR", "Blockchain"]
+        self.langsSpoken = ["en_US", "es_MX", "zh_CN"]
         
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -37,15 +38,6 @@ me.say_hi()
 - ⚡ Fun fact: ...
 -->
 
-Powershell
-Java
-
-
-
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Software developer and security enthusiast with a specialty in advanced integrations with SQL, API's, and more
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 TriVault cybersecurity which focuses on endpoint detection and response for businesses of all sizes
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 autoamated stock market and crypto portfolio research, automated business portfolio advancement and technological construction engineering consulting
 
 
 
