@@ -1,7 +1,11 @@
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;Welcome+to+my+profile!&center=true)](https://git.io/typing-svg)
 -->
-<img src="https://github.com/MichaelCMooney/MichaelCMooney/blob/main/AboutMe.gif" alt="Michael Mooney's About Me"></img>
+
+<p align="center">
+  <img src="https://github.com/MichaelCMooney/MichaelCMooney/blob/main/AboutMe.gif" alt="Michael Mooney's About Me"></img>
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
