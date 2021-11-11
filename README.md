@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/MichaelCMooney"><img src="https://api.daily.dev/devcards/696430326ed24e338b1e678990a33946.png?r=xdr" width="400" alt="Michael Mooney's Dev Card"/></a>
 
-<a href="https://app.daily.dev/MichaelCMooney"><img src="https://github.com/MichaelCMooney/MichaelCMooney/blob/master/devcard.svg" width="400" alt="Michael Mooney's Dev Card"/></a>
+<a href="https://app.daily.dev/MichaelCMooney"><img src="https://github.com/MichaelCMooney/MichaelCMooney/blob/main/devcard.svg" width="400" alt="Michael Mooney's Dev Card"/></a>
