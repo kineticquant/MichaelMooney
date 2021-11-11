@@ -10,7 +10,8 @@ class Software Developer:
     def __init__(self):
         self.name = "Mike Mooney (Moondog)"
         self.role = "Software Dev"
-        self.specialties = ["SQL", "Powershell", "Python", "Java", "C#", "VB.NET", "WebDev", "API's (REST & SOAP)", "EDR", "Blockchain"]
+        self.specialties = ["SQL", "Powershell", "Python", "Java", "C#", "VB.NET", "WebDev", "API's (REST & SOAP)", 
+                            "EDR", "Blockchain"]
         self.langsSpoken = ["en_US", "es_MX", "zh_CN"]
         
     def say_hi(self):
