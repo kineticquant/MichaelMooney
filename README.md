@@ -11,7 +11,7 @@ class Software Developer:
         self.name = "Mike Mooney (Moondog)"
         self.role = "Software Dev"
         self.specialties = ["SQL", "Powershell", "Python", "Java", "C#", "VB.NET", "WebDev", "API's (REST & SOAP)", 
-                            "EDR", "Blockchain"]
+                            "Bash", "Linux", "RDBMS", "WebLogic", "EDR", "Blockchain"]
         self.langsSpoken = ["en_US", "es_MX", "zh_CN"]
         
     def say_hi(self):
