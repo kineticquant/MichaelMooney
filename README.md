@@ -8,7 +8,7 @@
 class Software Developer:
 
     def __init__(self):
-        self.name = "Mike Mooney (Moondog)"
+        self.name = "Mike Mooney"
         self.role = "Software Dev"
         self.specialties = ["SQL", "Powershell", "Python", "Java", "C#", "VB.NET", "WebDev", "API's (REST & SOAP)", 
                             "Bash", "Linux", "Mulesoft", "Oracle RDBMS & PLSQL", "WebLogic", "EDR", "Blockchain"]
