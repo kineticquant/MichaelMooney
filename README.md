@@ -25,8 +25,9 @@ me.say_hi()
 <p align="right">
 </p>
 
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
+-->
 <!--
 
 - 🔭 I’m currently working on ...
