@@ -1,3 +1,6 @@
+<p align="center"><img src="https://github.com/MichaelCMooney/MichaelCMooney/blob/main/Welcome.png" alt="Michael Mooney's Github"/>
+</p>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -19,8 +22,7 @@ me.say_hi()
 
 ```
 
-<p align="center">
-</p>
+
 
 <p align="right">
 </p>
