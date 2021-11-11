@@ -51,5 +51,11 @@ me.say_hi()
 <p align="center">
 <a href="https://app.daily.dev/MichaelCMooney"><img src="https://github.com/MichaelCMooney/MichaelCMooney/blob/main/devcard.svg" width="400" alt="Michael Mooney's Dev Card"/></a>
  <br><br><br><br>
-    <a href="https://dev.page/moondog">Check out my dev.page profile!</a>
+   <!--
+ <a href="https://dev.page/moondog">Check out my dev.page profile!</a>
+-->
 </p>
+
+<!--
+https://dev.page/moondog/editor    +     https://dev.page/moondog
+-->
