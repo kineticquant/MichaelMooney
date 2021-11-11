@@ -1,4 +1,6 @@
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;Welcome+to+my+profile!&center=true)](https://git.io/typing-svg)
+-->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
@@ -12,6 +14,8 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Software developer and security enthusiast with a specialty in advanced integrations with SQL, API's, and more
