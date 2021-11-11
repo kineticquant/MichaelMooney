@@ -7,6 +7,9 @@
 </p>
 
 
+![Hey there, I'm Moondog. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <!--
@@ -19,6 +22,9 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+Powershell
+Java
 
 
 
