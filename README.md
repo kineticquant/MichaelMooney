@@ -4,7 +4,6 @@
 
 <!--
 
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +12,13 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 Software developer and security enthusiast with a specialty in advanced integrations with SQL, API's, and more
+- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 TriVault cybersecurity which focuses on endpoint detection and response for businesses of all sizes
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 autoamated stock market and crypto portfolio research, automated business portfolio advancement and technological construction engineering consulting
+
+
 
 
 <a href="https://app.daily.dev/MichaelCMooney"><img src="https://github.com/MichaelCMooney/MichaelCMooney/blob/main/devcard.svg" width="400" alt="Michael Mooney's Dev Card"/></a>
