@@ -40,11 +40,7 @@ me.say_hi()
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-    
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelCMooney&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelCMooney&center=true&theme=dark)](https://git.io/streak-stats)
-    
-</p>
+
 
 
     
@@ -53,6 +49,11 @@ me.say_hi()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCMooney&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <p align="center">
+   
+    [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelCMooney&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+    
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MichaelCMooney&center=true&theme=dark)](https://git.io/streak-stats)
+    
 <a href="https://app.daily.dev/MichaelCMooney"><img src="https://github.com/MichaelCMooney/MichaelCMooney/blob/main/devcard.svg" width="400" alt="Michael Mooney's Dev Card"/></a>
  <br><br><br><br>
    <!--
