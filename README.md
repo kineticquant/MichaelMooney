@@ -80,7 +80,9 @@ https://dev.page/moondog/editor    +     https://dev.page/moondog
 
 
 ## Crypto
-*I have been well-versed in crypto since 2011 and have actively traded and created across numerous platforms. These are my preferred platforms (not pictured: Algorand, Solana)<b>
+*I have been well-versed in crypto since 2011 and have actively traded and created across numerous platforms. These are my preferred platforms (not pictured: Algorand, Solana)*
+    
+<b>
 ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 
 ## Other
