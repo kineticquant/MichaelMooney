@@ -117,3 +117,9 @@ https://dev.page/moondog/editor    +     https://dev.page/moondog
 WHERE TO GET THE BLOBS MENTIONED ABOVE
 https://github.com/Ileriayo/markdown-badges/blob/master/README.md
 -->
+
+
+<!--
+Drag and drop GitHub editor
+https://www.producthunt.com/posts/mdeditorsy
+-->
