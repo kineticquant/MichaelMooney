@@ -1,28 +1,6 @@
 <p align="center"><img src="https://github.com/MichaelCMooney/MichaelCMooney/blob/main/WelcomeHDR.png" alt="Michael Mooney's Github"/> 
 </p>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class Software Developer:
-
-    def __init__(self):
-        self.name = "Mike Mooney"
-        self.role = "Software Dev"
-        self.specialties = ["SQL", "Powershell", "Python", "Java", "C#", "VB.NET", "WebDev", "API's (REST & SOAP)", 
-                            "Bash", "RHEL", "Node", "Mulesoft", "Oracle RDBMS & PLSQL", "WebLogic", "EDR", "Blockchain",
-                            "Cordova", "Cloudflare"]
-        self.langsSpoken = ["en_US", "es_MX", "zh_CN"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by!")
-        
-        
-me = SoftwareDeveloper()
-me.say_hi()
-
-```
 
 
 <!--
